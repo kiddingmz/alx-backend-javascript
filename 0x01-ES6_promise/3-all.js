@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 import { uploadPhoto, createUser } from './utils';
 
 export default function handleProfileSignup() {
